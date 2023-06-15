@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "com.samsung.sdc21.deadlift.app-merged_res-31:/drawable_lever_leg_extension.png.flat",
+        "source": "com.samsung.sdc21.deadlift.app-main-33:/drawable/lever_leg_extension.png"
+    },
+    {
+        "merged": "com.samsung.sdc21.deadlift.app-merged_res-31:/drawable_smith_machine_incline_bench_press.png.flat",
+        "source": "com.samsung.sdc21.deadlift.app-main-33:/drawable/smith_machine_incline_bench_press.png"
+    },
+    {
+        "merged": "com.samsung.sdc21.deadlift.app-merged_res-31:/drawable_standing_dumbbell_kickback.png.flat",
+        "source": "com.samsung.sdc21.deadlift.app-main-33:/drawable/standing_dumbbell_kickback.png"
+    },
+    {
+        "merged": "com.samsung.sdc21.deadlift.app-merged_res-31:/drawable_lat_pull_down.png.flat",
+        "source": "com.samsung.sdc21.deadlift.app-main-33:/drawable/lat_pull_down.png"
+    },
+    {
+        "merged": "com.samsung.sdc21.deadlift.app-merged_res-31:/drawable_barbell_preacher_curl.png.flat",
+        "source": "com.samsung.sdc21.deadlift.app-main-33:/drawable/barbell_preacher_curl.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\.gradle\\daemon\\7.3.3\\com.samsung.sdc21.deadlift.app-merged_res-31:\\mipmap-xhdpi_deadlifts_icon.png.flat",
+        "source": "C:\\Users\\home\\.gradle\\daemon\\7.3.3\\com.samsung.sdc21.deadlift.app-main-33:\\mipmap-xhdpi\\deadlifts_icon.png"
+    },
+    {
+        "merged": "com.samsung.sdc21.deadlift.app-merged_res-31:/drawable_incline_ezbar_triceps_extension.png.flat",
+        "source": "com.samsung.sdc21.deadlift.app-main-33:/drawable/incline_ezbar_triceps_extension.png"
+    },
+    {
+        "merged": "com.samsung.sdc21.deadlift.app-merged_res-31:/drawable_decline_dumbbell_bench_press.png.flat",
+        "source": "com.samsung.sdc21.deadlift.app-main-33:/drawable/decline_dumbbell_bench_press.png"
+    },
+    {
+        "merged": "com.samsung.sdc21.deadlift.app-merged_res-31:/drawable_underhand_cable_row.png.flat",
+        "source": "com.samsung.sdc21.deadlift.app-main-33:/drawable/underhand_cable_row.png"
+    },
+    {
+        "merged": "com.samsung.sdc21.deadlift.app-merged_res-31:/drawable_smith_machine_squat.png.flat",
+        "source": "com.samsung.sdc21.deadlift.app-main-33:/drawable/smith_machine_squat.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\.gradle\\daemon\\7.3.3\\com.samsung.sdc21.deadlift.app-merged_res-31:\\layout_activity_count_repeat.xml.flat",
+        "source": "C:\\Users\\home\\.gradle\\daemon\\7.3.3\\com.samsung.sdc21.deadlift.app-main-33:\\layout\\activity_count_repeat.xml"
+    },
+    {
+        "merged": "com.samsung.sdc21.deadlift.app-merged_res-31:/layout_dummy.xml.flat",
+        "source": "com.samsung.sdc21.deadlift.app-main-33:/layout/dummy.xml"
+    },
+    {
+        "merged": "C:\\Users\\home\\.gradle\\daemon\\7.3.3\\com.samsung.sdc21.deadlift.app-merged_res-31:\\mipmap-mdpi_deadlifts_icon.png.flat",
+        "source": "C:\\Users\\home\\.gradle\\daemon\\7.3.3\\com.samsung.sdc21.deadlift.app-main-33:\\mipmap-mdpi\\deadlifts_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\.gradle\\daemon\\7.3.3\\com.samsung.sdc21.deadlift.app-merged_res-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\home\\.gradle\\daemon\\7.3.3\\com.samsung.sdc21.deadlift.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.samsung.sdc21.deadlift.app-merged_res-31:/drawable_machine_triceps_extension.png.flat",
+        "source": "com.samsung.sdc21.deadlift.app-main-33:/drawable/machine_triceps_extension.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\.gradle\\daemon\\7.3.3\\com.samsung.sdc21.deadlift.app-merged_res-31:\\drawable_rounded_corners.xml.flat",
+        "source": "C:\\Users\\home\\.gradle\\daemon\\7.3.3\\com.samsung.sdc21.deadlift.app-main-33:\\drawable\\rounded_corners.xml"
+    },
+    {
+        "merged": "com.samsung.sdc21.deadlift.app-merged_res-31:/drawable_lying_leg_curl.png.flat",
+        "source": "com.samsung.sdc21.deadlift.app-main-33:/drawable/lying_leg_curl.png"
+    },
+    {
+        "merged": "com.samsung.sdc21.deadlift.app-merged_res-31:/drawable_machine_fly.png.flat",
+        "source": "com.samsung.sdc21.deadlift.app-main-33:/drawable/machine_fly.png"
+    },
+    {
+        "merged": "com.samsung.sdc21.deadlift.app-merged_res-31:/drawable_seated_leg_curl.png.flat",
+        "source": "com.samsung.sdc21.deadlift.app-main-33:/drawable/seated_leg_curl.png"
+    },
+    {
+        "merged": "com.samsung.sdc21.deadlift.app-merged_res-31:/drawable_delete_set.png.flat",
+        "source": "com.samsung.sdc21.deadlift.app-main-33:/drawable/delete_set.png"
+    },
+    {
+        "merged": "com.samsung.sdc21.deadlift.app-merged_res-31:/drawable_incline_dumbbell_bench_press.png.flat",
+        "source": "com.samsung.sdc21.deadlift.app-main-33:/drawable/incline_dumbbell_bench_press.png"
+    },
+    {
+        "merged": "com.samsung.sdc21.deadlift.app-merged_res-31:/drawable_machine_preacher_curl.png.flat",
+        "source": "com.samsung.sdc21.deadlift.app-main-33:/drawable/machine_preacher_curl.png"
+    },
+    {
+        "merged": "com.samsung.sdc21.deadlift.app-merged_res-31:/drawable_barbell_bench_press.png.flat",
+        "source": "com.samsung.sdc21.deadlift.app-main-33:/drawable/barbell_bench_press.png"
+    },
+    {
+        "merged": "com.samsung.sdc21.deadlift.app-merged_res-31:/drawable_incline_barbell_bench_press.png.flat",
+        "source": "com.samsung.sdc21.deadlift.app-main-33:/drawable/incline_barbell_bench_press.png"
+    },
+    {
+        "merged": "com.samsung.sdc21.deadlift.app-merged_res-31:/drawable_cable_cross_over.png.flat",
+        "source": "com.samsung.sdc21.deadlift.app-main-33:/drawable/cable_cross_over.png"
+    },
+    {
+        "merged": "com.samsung.sdc21.deadlift.app-merged_res-31:/drawable_pull_up.png.flat",
+        "source": "com.samsung.sdc21.deadlift.app-main-33:/drawable/pull_up.png"
+    },
+    {
+        "merged": "com.samsung.sdc21.deadlift.app-merged_res-31:/drawable_one_arm_lat_pulldown.png.flat",
+        "source": "com.samsung.sdc21.deadlift.app-main-33:/drawable/one_arm_lat_pulldown.png"
+    },
+    {
+        "merged": "com.samsung.sdc21.deadlift.app-merged_res-31:/drawable_hack_squat.png.flat",
+        "source": "com.samsung.sdc21.deadlift.app-main-33:/drawable/hack_squat.png"
+    },
+    {
+        "merged": "com.samsung.sdc21.deadlift.app-merged_res-31:/drawable_barbell_romanian_deadlift.png.flat",
+        "source": "com.samsung.sdc21.deadlift.app-main-33:/drawable/barbell_romanian_deadlift.png"
+    },
+    {
+        "merged": "com.samsung.sdc21.deadlift.app-merged_res-31:/drawable_chin_up.png.flat",
+        "source": "com.samsung.sdc21.deadlift.app-main-33:/drawable/chin_up.png"
+    },
+    {
+        "merged": "com.samsung.sdc21.deadlift.app-merged_res-31:/drawable_machine_front_pulldown.png.flat",
+        "source": "com.samsung.sdc21.deadlift.app-main-33:/drawable/machine_front_pulldown.png"
+    },
+    {
+        "merged": "com.samsung.sdc21.deadlift.app-merged_res-31:/drawable_machine_seated_hip_abduction.png.flat",
+        "source": "com.samsung.sdc21.deadlift.app-main-33:/drawable/machine_seated_hip_abduction.png"
+    },
+    {
+        "merged": "com.samsung.sdc21.deadlift.app-merged_res-31:/drawable_machine_chest_press.png.flat",
+        "source": "com.samsung.sdc21.deadlift.app-main-33:/drawable/machine_chest_press.png"
+    },
+    {
+        "merged": "com.samsung.sdc21.deadlift.app-merged_res-31:/drawable_two_arm_dumbbell_curl.png.flat",
+        "source": "com.samsung.sdc21.deadlift.app-main-33:/drawable/two_arm_dumbbell_curl.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\.gradle\\daemon\\7.3.3\\com.samsung.sdc21.deadlift.app-merged_res-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\home\\.gradle\\daemon\\7.3.3\\com.samsung.sdc21.deadlift.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.samsung.sdc21.deadlift.app-merged_res-31:/drawable_machine_one_arm_row.png.flat",
+        "source": "com.samsung.sdc21.deadlift.app-main-33:/drawable/machine_one_arm_row.png"
+    },
+    {
+        "merged": "com.samsung.sdc21.deadlift.app-merged_res-31:/drawable_barbell_squat.png.flat",
+        "source": "com.samsung.sdc21.deadlift.app-main-33:/drawable/barbell_squat.png"
+    },
+    {
+        "merged": "com.samsung.sdc21.deadlift.app-merged_res-31:/drawable_incline_leg_press.png.flat",
+        "source": "com.samsung.sdc21.deadlift.app-main-33:/drawable/incline_leg_press.png"
+    },
+    {
+        "merged": "com.samsung.sdc21.deadlift.app-merged_res-31:/drawable_dumbbell_bench_press.png.flat",
+        "source": "com.samsung.sdc21.deadlift.app-main-33:/drawable/dumbbell_bench_press.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\.gradle\\daemon\\7.3.3\\com.samsung.sdc21.deadlift.app-merged_res-31:\\mipmap-hdpi_deadlifts_icon.png.flat",
+        "source": "C:\\Users\\home\\.gradle\\daemon\\7.3.3\\com.samsung.sdc21.deadlift.app-main-33:\\mipmap-hdpi\\deadlifts_icon.png"
+    },
+    {
+        "merged": "com.samsung.sdc21.deadlift.app-merged_res-31:/drawable_decline_barbell_bench_press.png.flat",
+        "source": "com.samsung.sdc21.deadlift.app-main-33:/drawable/decline_barbell_bench_press.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\.gradle\\daemon\\7.3.3\\com.samsung.sdc21.deadlift.app-merged_res-31:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\home\\.gradle\\daemon\\7.3.3\\com.samsung.sdc21.deadlift.app-main-33:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.samsung.sdc21.deadlift.app-merged_res-31:/drawable_dumbbell_pullover.png.flat",
+        "source": "com.samsung.sdc21.deadlift.app-main-33:/drawable/dumbbell_pullover.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\.gradle\\daemon\\7.3.3\\com.samsung.sdc21.deadlift.app-merged_res-31:\\mipmap-xxhdpi_deadlifts_icon.png.flat",
+        "source": "C:\\Users\\home\\.gradle\\daemon\\7.3.3\\com.samsung.sdc21.deadlift.app-main-33:\\mipmap-xxhdpi\\deadlifts_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\home\\.gradle\\daemon\\7.3.3\\com.samsung.sdc21.deadlift.app-merged_res-31:\\mipmap-xxxhdpi_deadlifts_icon.png.flat",
+        "source": "C:\\Users\\home\\.gradle\\daemon\\7.3.3\\com.samsung.sdc21.deadlift.app-main-33:\\mipmap-xxxhdpi\\deadlifts_icon.png"
+    }
+]

@@ -1,0 +1,112 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.samsung.sdc21.deadlift"
+4    android:versionCode="2"
+5    android:versionName="1.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="30"
+8-->C:\Users\home\Desktop\deadlift\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Users\home\Desktop\deadlift\app\src\main\AndroidManifest.xml
+10
+11    <uses-feature android:name="android.hardware.type.watch" />
+11-->C:\Users\home\Desktop\deadlift\app\src\main\AndroidManifest.xml:4:5-64
+11-->C:\Users\home\Desktop\deadlift\app\src\main\AndroidManifest.xml:4:19-61
+12
+13    <uses-permission android:name="android.permission.BLUETOOTH" />
+13-->C:\Users\home\Desktop\deadlift\app\src\main\AndroidManifest.xml:6:5-68
+13-->C:\Users\home\Desktop\deadlift\app\src\main\AndroidManifest.xml:6:22-65
+14    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+14-->C:\Users\home\Desktop\deadlift\app\src\main\AndroidManifest.xml:7:5-73
+14-->C:\Users\home\Desktop\deadlift\app\src\main\AndroidManifest.xml:7:22-71
+15    <uses-permission android:name="android.permission.WAKE_LOCK" />
+15-->C:\Users\home\Desktop\deadlift\app\src\main\AndroidManifest.xml:8:5-68
+15-->C:\Users\home\Desktop\deadlift\app\src\main\AndroidManifest.xml:8:22-65
+16    <uses-permission android:name="android.permission.BODY_SENSORS" />
+16-->C:\Users\home\Desktop\deadlift\app\src\main\AndroidManifest.xml:9:5-71
+16-->C:\Users\home\Desktop\deadlift\app\src\main\AndroidManifest.xml:9:22-68
+17    <uses-permission android:name="android.permission.ACTIVITY_RECOGNITION" />
+17-->C:\Users\home\Desktop\deadlift\app\src\main\AndroidManifest.xml:10:5-79
+17-->C:\Users\home\Desktop\deadlift\app\src\main\AndroidManifest.xml:10:22-76
+18
+19    <application
+19-->C:\Users\home\Desktop\deadlift\app\src\main\AndroidManifest.xml:12:5-41:19
+20        android:allowBackup="true"
+20-->C:\Users\home\Desktop\deadlift\app\src\main\AndroidManifest.xml:14:9-35
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.8.0] C:\Users\home\.gradle\caches\transforms-3\0638d9dacb5fd10604e28ec2b4d3c80b\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+22        android:debuggable="true"
+23        android:exported="true"
+23-->C:\Users\home\Desktop\deadlift\app\src\main\AndroidManifest.xml:13:9-32
+24        android:extractNativeLibs="false"
+25        android:icon="@mipmap/deadlifts_icon"
+25-->C:\Users\home\Desktop\deadlift\app\src\main\AndroidManifest.xml:15:9-46
+26        android:label="@string/app_name"
+26-->C:\Users\home\Desktop\deadlift\app\src\main\AndroidManifest.xml:16:9-41
+27        android:supportsRtl="true"
+27-->C:\Users\home\Desktop\deadlift\app\src\main\AndroidManifest.xml:17:9-35
+28        android:testOnly="true"
+29        android:theme="@android:style/Theme.DeviceDefault" >
+29-->C:\Users\home\Desktop\deadlift\app\src\main\AndroidManifest.xml:18:9-59
+30        <uses-library
+30-->C:\Users\home\Desktop\deadlift\app\src\main\AndroidManifest.xml:21:9-23:39
+31            android:name="com.google.android.wearable"
+31-->C:\Users\home\Desktop\deadlift\app\src\main\AndroidManifest.xml:22:13-55
+32            android:required="true" />
+32-->C:\Users\home\Desktop\deadlift\app\src\main\AndroidManifest.xml:23:13-36
+33
+34        <meta-data
+34-->C:\Users\home\Desktop\deadlift\app\src\main\AndroidManifest.xml:25:9-27:36
+35            android:name="com.google.android.wearable.standalone"
+35-->C:\Users\home\Desktop\deadlift\app\src\main\AndroidManifest.xml:26:13-66
+36            android:value="true" />
+36-->C:\Users\home\Desktop\deadlift\app\src\main\AndroidManifest.xml:27:13-33
+37
+38        <activity
+38-->C:\Users\home\Desktop\deadlift\app\src\main\AndroidManifest.xml:29:9-38:20
+39            android:name="com.samsung.sdc21.deadlift.MainActivity"
+39-->C:\Users\home\Desktop\deadlift\app\src\main\AndroidManifest.xml:29:19-47
+40            android:exported="true"
+40-->C:\Users\home\Desktop\deadlift\app\src\main\AndroidManifest.xml:30:13-36
+41            android:theme="@style/Theme.AppCompat.NoActionBar" >
+41-->C:\Users\home\Desktop\deadlift\app\src\main\AndroidManifest.xml:31:13-63
+42            <intent-filter>
+42-->C:\Users\home\Desktop\deadlift\app\src\main\AndroidManifest.xml:32:13-37:29
+43                <action android:name="android.intent.action.MAIN" />
+43-->C:\Users\home\Desktop\deadlift\app\src\main\AndroidManifest.xml:33:17-69
+43-->C:\Users\home\Desktop\deadlift\app\src\main\AndroidManifest.xml:33:25-66
+44
+45                <category android:name="android.intent.category.LAUNCHER" />
+45-->C:\Users\home\Desktop\deadlift\app\src\main\AndroidManifest.xml:36:17-77
+45-->C:\Users\home\Desktop\deadlift\app\src\main\AndroidManifest.xml:36:27-74
+46            </intent-filter>
+47        </activity>
+48        <activity android:name="com.samsung.sdc21.deadlift.Deadlift" />
+48-->C:\Users\home\Desktop\deadlift\app\src\main\AndroidManifest.xml:39:9-45
+48-->C:\Users\home\Desktop\deadlift\app\src\main\AndroidManifest.xml:39:19-43
+49
+50        <provider
+50-->[androidx.emoji2:emoji2:1.2.0] C:\Users\home\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+51            android:name="androidx.startup.InitializationProvider"
+51-->[androidx.emoji2:emoji2:1.2.0] C:\Users\home\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+52            android:authorities="com.samsung.sdc21.deadlift.androidx-startup"
+52-->[androidx.emoji2:emoji2:1.2.0] C:\Users\home\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+53            android:exported="false" >
+53-->[androidx.emoji2:emoji2:1.2.0] C:\Users\home\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+54            <meta-data
+54-->[androidx.emoji2:emoji2:1.2.0] C:\Users\home\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+55                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+55-->[androidx.emoji2:emoji2:1.2.0] C:\Users\home\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+56                android:value="androidx.startup" />
+56-->[androidx.emoji2:emoji2:1.2.0] C:\Users\home\.gradle\caches\transforms-3\69e8195e0af1903606758bebf50c459d\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+57            <meta-data
+57-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\home\.gradle\caches\transforms-3\a2a5ae00951a98f5c9bbf6406733a104\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+58                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+58-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\home\.gradle\caches\transforms-3\a2a5ae00951a98f5c9bbf6406733a104\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+59                android:value="androidx.startup" />
+59-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\home\.gradle\caches\transforms-3\a2a5ae00951a98f5c9bbf6406733a104\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+60        </provider>
+61    </application>
+62
+63</manifest>
